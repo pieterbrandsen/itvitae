@@ -1,0 +1,11 @@
+C:\Users\Pieter\source\repos\taxiKosten\taxiKosten\obj\Debug\netcoreapp3.0\taxiKosten.csprojAssemblyReference.cache
+C:\Users\Pieter\source\repos\taxiKosten\taxiKosten\obj\Debug\netcoreapp3.0\taxiKosten.AssemblyInfoInputs.cache
+C:\Users\Pieter\source\repos\taxiKosten\taxiKosten\obj\Debug\netcoreapp3.0\taxiKosten.AssemblyInfo.cs
+C:\Users\Pieter\source\repos\taxiKosten\taxiKosten\bin\Debug\netcoreapp3.0\taxiKosten.exe
+C:\Users\Pieter\source\repos\taxiKosten\taxiKosten\bin\Debug\netcoreapp3.0\taxiKosten.deps.json
+C:\Users\Pieter\source\repos\taxiKosten\taxiKosten\bin\Debug\netcoreapp3.0\taxiKosten.runtimeconfig.json
+C:\Users\Pieter\source\repos\taxiKosten\taxiKosten\bin\Debug\netcoreapp3.0\taxiKosten.runtimeconfig.dev.json
+C:\Users\Pieter\source\repos\taxiKosten\taxiKosten\bin\Debug\netcoreapp3.0\taxiKosten.dll
+C:\Users\Pieter\source\repos\taxiKosten\taxiKosten\bin\Debug\netcoreapp3.0\taxiKosten.pdb
+C:\Users\Pieter\source\repos\taxiKosten\taxiKosten\obj\Debug\netcoreapp3.0\taxiKosten.dll
+C:\Users\Pieter\source\repos\taxiKosten\taxiKosten\obj\Debug\netcoreapp3.0\taxiKosten.pdb
