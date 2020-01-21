@@ -1,0 +1,17 @@
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\Lettertype Chaos\Lettertype Chaos\obj\Debug\netcoreapp3.0\Lettertype Chaos.csprojAssemblyReference.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\Lettertype Chaos\Lettertype Chaos\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\Lettertype Chaos\Lettertype Chaos\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\Lettertype Chaos\Lettertype Chaos\obj\Debug\netcoreapp3.0\Lettertype Chaos_MarkupCompile.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\Lettertype Chaos\Lettertype Chaos\obj\Debug\netcoreapp3.0\Lettertype Chaos_MarkupCompile.lref
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\Lettertype Chaos\Lettertype Chaos\bin\Debug\netcoreapp3.0\Lettertype Chaos.exe
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\Lettertype Chaos\Lettertype Chaos\bin\Debug\netcoreapp3.0\Lettertype Chaos.deps.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\Lettertype Chaos\Lettertype Chaos\bin\Debug\netcoreapp3.0\Lettertype Chaos.runtimeconfig.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\Lettertype Chaos\Lettertype Chaos\bin\Debug\netcoreapp3.0\Lettertype Chaos.runtimeconfig.dev.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\Lettertype Chaos\Lettertype Chaos\bin\Debug\netcoreapp3.0\Lettertype Chaos.dll
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\Lettertype Chaos\Lettertype Chaos\bin\Debug\netcoreapp3.0\Lettertype Chaos.pdb
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\Lettertype Chaos\Lettertype Chaos\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\Lettertype Chaos\Lettertype Chaos\obj\Debug\netcoreapp3.0\Lettertype Chaos.g.resources
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\Lettertype Chaos\Lettertype Chaos\obj\Debug\netcoreapp3.0\Lettertype Chaos.AssemblyInfoInputs.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\Lettertype Chaos\Lettertype Chaos\obj\Debug\netcoreapp3.0\Lettertype Chaos.AssemblyInfo.cs
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\Lettertype Chaos\Lettertype Chaos\obj\Debug\netcoreapp3.0\Lettertype Chaos.dll
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\Lettertype Chaos\Lettertype Chaos\obj\Debug\netcoreapp3.0\Lettertype Chaos.pdb

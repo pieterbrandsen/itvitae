@@ -1,0 +1,26 @@
+﻿<Window x:Class="Lettertype_Chaos.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lettertype_Chaos"
+        mc:Ignorable="d"
+        Title="Randomize Font" Height="450" Width="800" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="68*"/>
+            <RowDefinition Height="149*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="Button_randomize" Content="Randomize" HorizontalAlignment="Left" Margin="710,231,0,0" VerticalAlignment="Top" Click="Button_randomize_Click" Grid.Row="1"/>
+        <Label Content="Insert text and click then on randomize." HorizontalAlignment="Left" Margin="43,251,0,0" VerticalAlignment="Top" Grid.Row="1"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Margin="573,259,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <RichTextBox Margin="152,68,185,157" Grid.RowSpan="2">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="RichTextBox"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Window>
