@@ -16,3 +16,12 @@ C:\Users\Pieter\Documents\GitHub\Rood\rekenmachine\WindowsFormsApp5\obj\Debug\Wi
 C:\Users\Pieter\Documents\GitHub\Rood\rekenmachine\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
 C:\Users\Pieter\Documents\GitHub\Rood\rekenmachine\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
 C:\Users\Pieter\Documents\GitHub\Rood\rekenmachine\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\rekenmachine\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\rekenmachine\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\rekenmachine\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\rekenmachine\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\rekenmachine\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Rekenmachine.resources
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\rekenmachine\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\rekenmachine\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\rekenmachine\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Pieter\Documents\GitHub\itvitae\Red\rekenmachine\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
