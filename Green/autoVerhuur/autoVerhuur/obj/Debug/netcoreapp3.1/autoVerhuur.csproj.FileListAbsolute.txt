@@ -1,0 +1,17 @@
+C:\Users\piete\Documents\GitHub\itvitae\Green\autoVerhuur\autoVerhuur\bin\Debug\netcoreapp3.1\autoVerhuur.exe
+C:\Users\piete\Documents\GitHub\itvitae\Green\autoVerhuur\autoVerhuur\bin\Debug\netcoreapp3.1\autoVerhuur.deps.json
+C:\Users\piete\Documents\GitHub\itvitae\Green\autoVerhuur\autoVerhuur\bin\Debug\netcoreapp3.1\autoVerhuur.runtimeconfig.json
+C:\Users\piete\Documents\GitHub\itvitae\Green\autoVerhuur\autoVerhuur\bin\Debug\netcoreapp3.1\autoVerhuur.runtimeconfig.dev.json
+C:\Users\piete\Documents\GitHub\itvitae\Green\autoVerhuur\autoVerhuur\bin\Debug\netcoreapp3.1\autoVerhuur.dll
+C:\Users\piete\Documents\GitHub\itvitae\Green\autoVerhuur\autoVerhuur\bin\Debug\netcoreapp3.1\autoVerhuur.pdb
+C:\Users\piete\Documents\GitHub\itvitae\Green\autoVerhuur\autoVerhuur\obj\Debug\netcoreapp3.1\autoVerhuur.csprojAssemblyReference.cache
+C:\Users\piete\Documents\GitHub\itvitae\Green\autoVerhuur\autoVerhuur\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\piete\Documents\GitHub\itvitae\Green\autoVerhuur\autoVerhuur\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\piete\Documents\GitHub\itvitae\Green\autoVerhuur\autoVerhuur\obj\Debug\netcoreapp3.1\autoVerhuur_MarkupCompile.cache
+C:\Users\piete\Documents\GitHub\itvitae\Green\autoVerhuur\autoVerhuur\obj\Debug\netcoreapp3.1\autoVerhuur_MarkupCompile.lref
+C:\Users\piete\Documents\GitHub\itvitae\Green\autoVerhuur\autoVerhuur\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\piete\Documents\GitHub\itvitae\Green\autoVerhuur\autoVerhuur\obj\Debug\netcoreapp3.1\autoVerhuur.g.resources
+C:\Users\piete\Documents\GitHub\itvitae\Green\autoVerhuur\autoVerhuur\obj\Debug\netcoreapp3.1\autoVerhuur.AssemblyInfoInputs.cache
+C:\Users\piete\Documents\GitHub\itvitae\Green\autoVerhuur\autoVerhuur\obj\Debug\netcoreapp3.1\autoVerhuur.AssemblyInfo.cs
+C:\Users\piete\Documents\GitHub\itvitae\Green\autoVerhuur\autoVerhuur\obj\Debug\netcoreapp3.1\autoVerhuur.dll
+C:\Users\piete\Documents\GitHub\itvitae\Green\autoVerhuur\autoVerhuur\obj\Debug\netcoreapp3.1\autoVerhuur.pdb

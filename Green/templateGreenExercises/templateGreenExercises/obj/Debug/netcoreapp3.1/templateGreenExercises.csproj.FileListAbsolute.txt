@@ -1,0 +1,5 @@
+C:\Users\piete\Documents\GitHub\itvitae\Green\templateGreenExercises\templateGreenExercises\obj\Debug\netcoreapp3.1\templateGreenExercises.csprojAssemblyReference.cache
+C:\Users\piete\Documents\GitHub\itvitae\Green\templateGreenExercises\templateGreenExercises\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\piete\Documents\GitHub\itvitae\Green\templateGreenExercises\templateGreenExercises\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\piete\Documents\GitHub\itvitae\Green\templateGreenExercises\templateGreenExercises\obj\Debug\netcoreapp3.1\templateGreenExercises_MarkupCompile.cache
+C:\Users\piete\Documents\GitHub\itvitae\Green\templateGreenExercises\templateGreenExercises\obj\Debug\netcoreapp3.1\templateGreenExercises_MarkupCompile.lref
