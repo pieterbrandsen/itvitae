@@ -1,0 +1,11 @@
+H:\Code\Project Eulur\Problem3\Problem3\obj\Debug\netcoreapp3.0\Problem3.csprojAssemblyReference.cache
+H:\Code\Project Eulur\Problem3\Problem3\obj\Debug\netcoreapp3.0\Problem3.AssemblyInfoInputs.cache
+H:\Code\Project Eulur\Problem3\Problem3\obj\Debug\netcoreapp3.0\Problem3.AssemblyInfo.cs
+H:\Code\Project Eulur\Problem3\Problem3\bin\Debug\netcoreapp3.0\Problem3.exe
+H:\Code\Project Eulur\Problem3\Problem3\bin\Debug\netcoreapp3.0\Problem3.deps.json
+H:\Code\Project Eulur\Problem3\Problem3\bin\Debug\netcoreapp3.0\Problem3.runtimeconfig.json
+H:\Code\Project Eulur\Problem3\Problem3\bin\Debug\netcoreapp3.0\Problem3.runtimeconfig.dev.json
+H:\Code\Project Eulur\Problem3\Problem3\bin\Debug\netcoreapp3.0\Problem3.dll
+H:\Code\Project Eulur\Problem3\Problem3\bin\Debug\netcoreapp3.0\Problem3.pdb
+H:\Code\Project Eulur\Problem3\Problem3\obj\Debug\netcoreapp3.0\Problem3.dll
+H:\Code\Project Eulur\Problem3\Problem3\obj\Debug\netcoreapp3.0\Problem3.pdb

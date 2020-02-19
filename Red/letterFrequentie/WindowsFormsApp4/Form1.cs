@@ -22,7 +22,6 @@ namespace WindowsFormsApp4
         private void button_ReadText_Click(object sender, EventArgs e)
         {
             textBoxContent = textBox.Text.ToUpper();
-            // Alleen to upper werkt niet
 
             textBox_A.Text = "0";
             textBox_B.Text = "0";
