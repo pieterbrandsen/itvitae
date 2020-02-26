@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {}
+    ".NETCoreApp,Version=v3.1": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": []
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\Pieter\\.nuget\\packages\\": {},
@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pieter\\Documents\\GitHub\\itvitae\\Green\\taxiKosten\\taxiKosten\\taxiKosten.csproj",
-      "projectName": "taxiKosten",
-      "projectPath": "C:\\Users\\Pieter\\Documents\\GitHub\\itvitae\\Green\\taxiKosten\\taxiKosten\\taxiKosten.csproj",
+      "projectUniqueName": "C:\\Users\\Pieter\\Documents\\GitHub\\itvitae\\Project Euler\\Problem 5\\Smallest multiple\\Smallest multiple\\Smallest multiple.csproj",
+      "projectName": "Smallest multiple",
+      "projectPath": "C:\\Users\\Pieter\\Documents\\GitHub\\itvitae\\Project Euler\\Problem 5\\Smallest multiple\\Smallest multiple\\Smallest multiple.csproj",
       "packagesPath": "C:\\Users\\Pieter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pieter\\Documents\\GitHub\\itvitae\\Green\\taxiKosten\\taxiKosten\\obj\\",
+      "outputPath": "C:\\Users\\Pieter\\Documents\\GitHub\\itvitae\\Project Euler\\Problem 5\\Smallest multiple\\Smallest multiple\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -31,14 +31,14 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp3.1": {
           "projectReferences": {}
         }
       },
@@ -49,7 +49,7 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.0": {
+      "netcoreapp3.1": {
         "imports": [
           "net461",
           "net462",

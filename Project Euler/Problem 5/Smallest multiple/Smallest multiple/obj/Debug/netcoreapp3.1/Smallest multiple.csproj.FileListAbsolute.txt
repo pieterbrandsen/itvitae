@@ -1,0 +1,11 @@
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 5\Smallest multiple\Smallest multiple\bin\Debug\netcoreapp3.1\Smallest multiple.exe
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 5\Smallest multiple\Smallest multiple\bin\Debug\netcoreapp3.1\Smallest multiple.deps.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 5\Smallest multiple\Smallest multiple\bin\Debug\netcoreapp3.1\Smallest multiple.runtimeconfig.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 5\Smallest multiple\Smallest multiple\bin\Debug\netcoreapp3.1\Smallest multiple.runtimeconfig.dev.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 5\Smallest multiple\Smallest multiple\bin\Debug\netcoreapp3.1\Smallest multiple.dll
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 5\Smallest multiple\Smallest multiple\bin\Debug\netcoreapp3.1\Smallest multiple.pdb
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 5\Smallest multiple\Smallest multiple\obj\Debug\netcoreapp3.1\Smallest multiple.csprojAssemblyReference.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 5\Smallest multiple\Smallest multiple\obj\Debug\netcoreapp3.1\Smallest multiple.AssemblyInfoInputs.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 5\Smallest multiple\Smallest multiple\obj\Debug\netcoreapp3.1\Smallest multiple.AssemblyInfo.cs
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 5\Smallest multiple\Smallest multiple\obj\Debug\netcoreapp3.1\Smallest multiple.dll
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 5\Smallest multiple\Smallest multiple\obj\Debug\netcoreapp3.1\Smallest multiple.pdb
