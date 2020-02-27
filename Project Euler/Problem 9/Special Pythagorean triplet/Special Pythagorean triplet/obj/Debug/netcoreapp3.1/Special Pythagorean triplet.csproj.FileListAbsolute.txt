@@ -1,0 +1,11 @@
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 9\Special Pythagorean triplet\Special Pythagorean triplet\bin\Debug\netcoreapp3.1\Special Pythagorean triplet.exe
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 9\Special Pythagorean triplet\Special Pythagorean triplet\bin\Debug\netcoreapp3.1\Special Pythagorean triplet.deps.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 9\Special Pythagorean triplet\Special Pythagorean triplet\bin\Debug\netcoreapp3.1\Special Pythagorean triplet.runtimeconfig.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 9\Special Pythagorean triplet\Special Pythagorean triplet\bin\Debug\netcoreapp3.1\Special Pythagorean triplet.runtimeconfig.dev.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 9\Special Pythagorean triplet\Special Pythagorean triplet\bin\Debug\netcoreapp3.1\Special Pythagorean triplet.dll
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 9\Special Pythagorean triplet\Special Pythagorean triplet\bin\Debug\netcoreapp3.1\Special Pythagorean triplet.pdb
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 9\Special Pythagorean triplet\Special Pythagorean triplet\obj\Debug\netcoreapp3.1\Special Pythagorean triplet.csprojAssemblyReference.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 9\Special Pythagorean triplet\Special Pythagorean triplet\obj\Debug\netcoreapp3.1\Special Pythagorean triplet.AssemblyInfoInputs.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 9\Special Pythagorean triplet\Special Pythagorean triplet\obj\Debug\netcoreapp3.1\Special Pythagorean triplet.AssemblyInfo.cs
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 9\Special Pythagorean triplet\Special Pythagorean triplet\obj\Debug\netcoreapp3.1\Special Pythagorean triplet.dll
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 9\Special Pythagorean triplet\Special Pythagorean triplet\obj\Debug\netcoreapp3.1\Special Pythagorean triplet.pdb
