@@ -1,0 +1,11 @@
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 6\Sum square difference\Sum square difference\bin\Debug\netcoreapp3.1\Sum square difference.exe
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 6\Sum square difference\Sum square difference\bin\Debug\netcoreapp3.1\Sum square difference.deps.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 6\Sum square difference\Sum square difference\bin\Debug\netcoreapp3.1\Sum square difference.runtimeconfig.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 6\Sum square difference\Sum square difference\bin\Debug\netcoreapp3.1\Sum square difference.runtimeconfig.dev.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 6\Sum square difference\Sum square difference\bin\Debug\netcoreapp3.1\Sum square difference.dll
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 6\Sum square difference\Sum square difference\bin\Debug\netcoreapp3.1\Sum square difference.pdb
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 6\Sum square difference\Sum square difference\obj\Debug\netcoreapp3.1\Sum square difference.csprojAssemblyReference.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 6\Sum square difference\Sum square difference\obj\Debug\netcoreapp3.1\Sum square difference.AssemblyInfoInputs.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 6\Sum square difference\Sum square difference\obj\Debug\netcoreapp3.1\Sum square difference.AssemblyInfo.cs
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 6\Sum square difference\Sum square difference\obj\Debug\netcoreapp3.1\Sum square difference.dll
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 6\Sum square difference\Sum square difference\obj\Debug\netcoreapp3.1\Sum square difference.pdb
