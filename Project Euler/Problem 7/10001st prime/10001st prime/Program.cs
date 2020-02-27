@@ -37,7 +37,6 @@ namespace _10001st_prime
                 if (IsPrime(i) == 1)
                 {
                     primeList.Add(i);
-                    Console.WriteLine(i);
                     i++;
                     primeNumbers--;
                 }
@@ -46,6 +45,7 @@ namespace _10001st_prime
 
             int[] array = primeList.ToArray();
             Console.WriteLine("The 10.001st prime is: " + array[10001]);
+            Console.ReadKey();
         }
     }
 }

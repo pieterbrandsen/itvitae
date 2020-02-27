@@ -1,0 +1,11 @@
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 8\Largest product in a series\Largest product in a series\obj\Debug\netcoreapp3.1\Largest product in a series.csprojAssemblyReference.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 8\Largest product in a series\Largest product in a series\obj\Debug\netcoreapp3.1\Largest product in a series.AssemblyInfoInputs.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 8\Largest product in a series\Largest product in a series\obj\Debug\netcoreapp3.1\Largest product in a series.AssemblyInfo.cs
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 8\Largest product in a series\Largest product in a series\bin\Debug\netcoreapp3.1\Largest product in a series.exe
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 8\Largest product in a series\Largest product in a series\bin\Debug\netcoreapp3.1\Largest product in a series.deps.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 8\Largest product in a series\Largest product in a series\bin\Debug\netcoreapp3.1\Largest product in a series.runtimeconfig.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 8\Largest product in a series\Largest product in a series\bin\Debug\netcoreapp3.1\Largest product in a series.runtimeconfig.dev.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 8\Largest product in a series\Largest product in a series\bin\Debug\netcoreapp3.1\Largest product in a series.dll
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 8\Largest product in a series\Largest product in a series\bin\Debug\netcoreapp3.1\Largest product in a series.pdb
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 8\Largest product in a series\Largest product in a series\obj\Debug\netcoreapp3.1\Largest product in a series.dll
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 8\Largest product in a series\Largest product in a series\obj\Debug\netcoreapp3.1\Largest product in a series.pdb
