@@ -1,0 +1,11 @@
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 12\Highly divisible triangular number\Highly divisible triangular number\bin\Debug\netcoreapp3.1\Highly divisible triangular number.exe
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 12\Highly divisible triangular number\Highly divisible triangular number\bin\Debug\netcoreapp3.1\Highly divisible triangular number.deps.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 12\Highly divisible triangular number\Highly divisible triangular number\bin\Debug\netcoreapp3.1\Highly divisible triangular number.runtimeconfig.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 12\Highly divisible triangular number\Highly divisible triangular number\bin\Debug\netcoreapp3.1\Highly divisible triangular number.runtimeconfig.dev.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 12\Highly divisible triangular number\Highly divisible triangular number\bin\Debug\netcoreapp3.1\Highly divisible triangular number.dll
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 12\Highly divisible triangular number\Highly divisible triangular number\bin\Debug\netcoreapp3.1\Highly divisible triangular number.pdb
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 12\Highly divisible triangular number\Highly divisible triangular number\obj\Debug\netcoreapp3.1\Highly divisible triangular number.csprojAssemblyReference.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 12\Highly divisible triangular number\Highly divisible triangular number\obj\Debug\netcoreapp3.1\Highly divisible triangular number.AssemblyInfoInputs.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 12\Highly divisible triangular number\Highly divisible triangular number\obj\Debug\netcoreapp3.1\Highly divisible triangular number.AssemblyInfo.cs
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 12\Highly divisible triangular number\Highly divisible triangular number\obj\Debug\netcoreapp3.1\Highly divisible triangular number.dll
+C:\Users\Pieter\Documents\GitHub\itvitae\Project Euler\Problem 12\Highly divisible triangular number\Highly divisible triangular number\obj\Debug\netcoreapp3.1\Highly divisible triangular number.pdb
