@@ -1,0 +1,11 @@
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\dierenPark\dierenTuin\bin\Debug\netcoreapp3.1\dierenTuin.exe
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\dierenPark\dierenTuin\bin\Debug\netcoreapp3.1\dierenTuin.deps.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\dierenPark\dierenTuin\bin\Debug\netcoreapp3.1\dierenTuin.runtimeconfig.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\dierenPark\dierenTuin\bin\Debug\netcoreapp3.1\dierenTuin.runtimeconfig.dev.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\dierenPark\dierenTuin\bin\Debug\netcoreapp3.1\dierenTuin.dll
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\dierenPark\dierenTuin\bin\Debug\netcoreapp3.1\dierenTuin.pdb
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\dierenPark\dierenTuin\obj\Debug\netcoreapp3.1\dierenTuin.csprojAssemblyReference.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\dierenPark\dierenTuin\obj\Debug\netcoreapp3.1\dierenTuin.AssemblyInfoInputs.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\dierenPark\dierenTuin\obj\Debug\netcoreapp3.1\dierenTuin.AssemblyInfo.cs
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\dierenPark\dierenTuin\obj\Debug\netcoreapp3.1\dierenTuin.dll
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\dierenPark\dierenTuin\obj\Debug\netcoreapp3.1\dierenTuin.pdb
