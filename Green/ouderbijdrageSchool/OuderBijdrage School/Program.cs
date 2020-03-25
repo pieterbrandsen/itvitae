@@ -30,7 +30,7 @@ namespace taxiKosten
 
             }
 
-
+            Console.WriteLine("Uit hoeveel verzorgers bestaat dit gezin?");
             ouders = Console.ReadLine();
             int totaalOuders = Convert.ToInt32(ouders);
 
@@ -117,7 +117,7 @@ namespace taxiKosten
                 totaalBedrag = (totaalBedrag / 100) * 75;
                 totaalBijdrage = Convert.ToInt32(totaalBedrag);
             }
-            Console.WriteLine(totaalBijdrage);
+            Console.WriteLine("Het totaal bedrag is: " + totaalBijdrage);
             
             Console.ReadKey();
 

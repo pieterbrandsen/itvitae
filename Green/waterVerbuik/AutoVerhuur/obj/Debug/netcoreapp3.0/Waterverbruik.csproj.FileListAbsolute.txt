@@ -1,0 +1,11 @@
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\waterVerbuik\AutoVerhuur\bin\Debug\netcoreapp3.0\Waterverbruik.exe
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\waterVerbuik\AutoVerhuur\bin\Debug\netcoreapp3.0\Waterverbruik.deps.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\waterVerbuik\AutoVerhuur\bin\Debug\netcoreapp3.0\Waterverbruik.runtimeconfig.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\waterVerbuik\AutoVerhuur\bin\Debug\netcoreapp3.0\Waterverbruik.runtimeconfig.dev.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\waterVerbuik\AutoVerhuur\bin\Debug\netcoreapp3.0\Waterverbruik.dll
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\waterVerbuik\AutoVerhuur\bin\Debug\netcoreapp3.0\Waterverbruik.pdb
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\waterVerbuik\AutoVerhuur\obj\Debug\netcoreapp3.0\Waterverbruik.csprojAssemblyReference.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\waterVerbuik\AutoVerhuur\obj\Debug\netcoreapp3.0\Waterverbruik.AssemblyInfoInputs.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\waterVerbuik\AutoVerhuur\obj\Debug\netcoreapp3.0\Waterverbruik.AssemblyInfo.cs
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\waterVerbuik\AutoVerhuur\obj\Debug\netcoreapp3.0\Waterverbruik.dll
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\waterVerbuik\AutoVerhuur\obj\Debug\netcoreapp3.0\Waterverbruik.pdb

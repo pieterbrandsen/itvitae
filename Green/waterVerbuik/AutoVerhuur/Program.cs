@@ -8,7 +8,7 @@ namespace WaterVerbuik
         {
             Console.WriteLine("Hoeveel water gebruikt U per jaar? Voer alleen het getal in per m3");
             int waterGebruik = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Welk tarief heeft U? Voer in als een getal");
+            Console.WriteLine("Welk tarief heeft U? kies uit 0,1,3");
             int tariefSoort = Convert.ToInt32(Console.ReadLine());
 
             int tarief1Vast = 100;
@@ -28,7 +28,7 @@ namespace WaterVerbuik
             {
                 tarief = tarief2;
             }
-            if (tariefSoort == 3)
+            if (tariefSoort == 0)
             {
                 if (tarief1 > tarief2)
                 {

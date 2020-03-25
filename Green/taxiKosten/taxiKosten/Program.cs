@@ -84,7 +84,7 @@ namespace taxiKosten
             }
 
 
-            Console.WriteLine(ritprijs);
+            Console.WriteLine("De rit gaat: " + ritprijs + " euro kosten.");
             Console.ReadKey();
 
         }
