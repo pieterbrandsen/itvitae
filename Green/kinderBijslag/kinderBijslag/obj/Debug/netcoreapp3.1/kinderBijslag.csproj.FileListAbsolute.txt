@@ -1,0 +1,11 @@
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\kinderBijslag\kinderBijslag\bin\Debug\netcoreapp3.1\kinderBijslag.exe
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\kinderBijslag\kinderBijslag\bin\Debug\netcoreapp3.1\kinderBijslag.deps.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\kinderBijslag\kinderBijslag\bin\Debug\netcoreapp3.1\kinderBijslag.runtimeconfig.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\kinderBijslag\kinderBijslag\bin\Debug\netcoreapp3.1\kinderBijslag.runtimeconfig.dev.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\kinderBijslag\kinderBijslag\bin\Debug\netcoreapp3.1\kinderBijslag.dll
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\kinderBijslag\kinderBijslag\bin\Debug\netcoreapp3.1\kinderBijslag.pdb
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\kinderBijslag\kinderBijslag\obj\Debug\netcoreapp3.1\kinderBijslag.csprojAssemblyReference.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\kinderBijslag\kinderBijslag\obj\Debug\netcoreapp3.1\kinderBijslag.AssemblyInfoInputs.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\kinderBijslag\kinderBijslag\obj\Debug\netcoreapp3.1\kinderBijslag.AssemblyInfo.cs
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\kinderBijslag\kinderBijslag\obj\Debug\netcoreapp3.1\kinderBijslag.dll
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\kinderBijslag\kinderBijslag\obj\Debug\netcoreapp3.1\kinderBijslag.pdb

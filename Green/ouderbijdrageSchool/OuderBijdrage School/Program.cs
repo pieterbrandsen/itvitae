@@ -48,7 +48,7 @@ namespace taxiKosten
 
                 if((jaarVandaag - jaarGeboorte) > 10) // Ouder dan 10
                 {
-                    kinderenBoven10 = +1;
+                    kinderenBoven10++;
                 }
                 if ((jaarVandaag - jaarGeboorte) == 10)
                 {
@@ -56,31 +56,31 @@ namespace taxiKosten
                     {
                         if ((dagVandaag - dagGeboorte) < 0) // Jonger dan 10
                         {
-                            kinderenOnder10 = +1;
+                            kinderenOnder10++;
                         }
                         if ((dagVandaag - dagGeboorte) >= 0) // Ouder dan 10
                         {
-                            kinderenBoven10 = +1;
+                            kinderenBoven10++;
                         }
                     }
                     if ((maandVandaag - maandGeboorte) == 0)
                     {
                         if ((dagVandaag - dagGeboorte) < 0) // Jonger dan 10
                         {
-                            kinderenOnder10 =+ 1;
+                            kinderenOnder10++;
                         }
                     }
                     if ((maandVandaag - maandGeboorte) > 0) // Ouder dan 10
                     {
                         if ((dagVandaag - dagGeboorte) > 0)
                         {
-                            kinderenBoven10 = +1;
+                            kinderenBoven10++;
                         }
                     }
                 }
                 if ((jaarVandaag - jaarGeboorte) < 10) // Jonger dan 10
                 {
-                    kinderenOnder10=+1;
+                    kinderenOnder10++;
                 }
             }
 
@@ -117,6 +117,8 @@ namespace taxiKosten
                 totaalBedrag = (totaalBedrag / 100) * 75;
                 totaalBijdrage = Convert.ToInt32(totaalBedrag);
             }
+
+            Console.WriteLine();
             Console.WriteLine("Het totaal bedrag is: " + totaalBijdrage);
             
             Console.ReadKey();
