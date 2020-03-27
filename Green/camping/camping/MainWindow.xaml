@@ -1,0 +1,34 @@
+﻿<Window x:Class="camping.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:camping"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Vul de begin datum in:" HorizontalAlignment="Left" Margin="50,43,0,0" VerticalAlignment="Top"/>
+        <Label Content="Vul de eind datum in:" HorizontalAlignment="Left" Margin="50,95,0,0" VerticalAlignment="Top"/>
+        <DatePicker x:Name="lastDateText" HorizontalAlignment="Left" Margin="189,101,0,0" VerticalAlignment="Top" FirstDayOfWeek="Monday" IsTodayHighlighted="True" SelectedDateFormat="Short" CalendarClosed="lastDateText_CalendarClosed"/>
+        <TextBox x:Name="outputText" HorizontalAlignment="Left" Margin="170,355,0,0" Text="0 Euro" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <DatePicker x:Name="firstDateText" HorizontalAlignment="Left" Margin="189,45,0,0" VerticalAlignment="Top" FirstDayOfWeek="Monday" IsTodayHighlighted="True" SelectedDateFormat="Short" CalendarClosed="firstDateText_CalendarClosed"/>
+        <Button x:Name="calculateButton" Content="Bereken" HorizontalAlignment="Left" Margin="239,319,0,0" VerticalAlignment="Top" Click="calculateButton_Click"/>
+        <Label Content="Te betalen prijs:" HorizontalAlignment="Left" Margin="49,351,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.068,-0.75" Width="103"/>
+        <TextBox x:Name="amountOfMeters" HorizontalAlignment="Left" Margin="189,159,0,0" Text="10" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Hoeveel meter grond?" HorizontalAlignment="Left" Margin="50,155,0,0" VerticalAlignment="Top"/>
+        <Label Content="Elke meter extra kost 3 euro en elke meter korter kost 2 euro." HorizontalAlignment="Left" Margin="66,181,0,0" VerticalAlignment="Top" FontSize="9"/>
+        <TextBox x:Name="amountOfPersons" HorizontalAlignment="Left" Margin="189,217,0,0" Text="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Hoeveel personen?" HorizontalAlignment="Left" Margin="50,213,0,0" VerticalAlignment="Top"/>
+        <Label Content="Hoeveel honden?" HorizontalAlignment="Left" Margin="50,253,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="amountOfDogs" HorizontalAlignment="Left" Margin="189,257,0,0" Text="0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Auto bij de tent?" HorizontalAlignment="Left" Margin="50,284,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="amountOfCars" HorizontalAlignment="Left" Margin="189,288,0,0" Text="0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="492,103,0,0" Text="Prijslijst:" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="15" Height="22" Width="56"/>
+        <TextBlock HorizontalAlignment="Left" Margin="482,188,0,0" Text="Per Persoon: 5 Euro" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="14" Height="21" Width="127"/>
+        <TextBlock HorizontalAlignment="Left" Margin="482,216,0,0" Text="Per Hond: 4 Euro" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="14" Height="20" Width="111"/>
+        <TextBlock HorizontalAlignment="Left" Margin="482,245,0,0" Text="Auto bij tent: 6 Euro" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="14" RenderTransformOrigin="0.721,3.558" Height="21" Width="132"/>
+        <TextBlock HorizontalAlignment="Left" Margin="482,159,0,0" Text="Plaatsverhuur buiten seizoen: 25 Euro  (10 meter)" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="13" Height="19" Width="299"/>
+        <TextBlock HorizontalAlignment="Left" Margin="482,132,0,0" Text="Plaatsverhuur binnen seizoen: 30 Euro  (10 meter)" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="13" Width="318" Height="19"/>
+        <Label Content="Het seizoen is 11 juli tot en met 15 augustus" HorizontalAlignment="Left" Margin="563,101,0,0" VerticalAlignment="Top" FontSize="10" Height="26" Width="218"/>
+    </Grid>
+</Window>

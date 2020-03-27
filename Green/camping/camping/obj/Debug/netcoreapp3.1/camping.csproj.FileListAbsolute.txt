@@ -1,0 +1,17 @@
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\camping\camping\bin\Debug\netcoreapp3.1\camping.exe
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\camping\camping\bin\Debug\netcoreapp3.1\camping.deps.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\camping\camping\bin\Debug\netcoreapp3.1\camping.runtimeconfig.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\camping\camping\bin\Debug\netcoreapp3.1\camping.runtimeconfig.dev.json
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\camping\camping\bin\Debug\netcoreapp3.1\camping.dll
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\camping\camping\bin\Debug\netcoreapp3.1\camping.pdb
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\camping\camping\obj\Debug\netcoreapp3.1\camping.csprojAssemblyReference.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\camping\camping\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\camping\camping\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\camping\camping\obj\Debug\netcoreapp3.1\camping_MarkupCompile.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\camping\camping\obj\Debug\netcoreapp3.1\camping_MarkupCompile.lref
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\camping\camping\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\camping\camping\obj\Debug\netcoreapp3.1\camping.g.resources
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\camping\camping\obj\Debug\netcoreapp3.1\camping.AssemblyInfoInputs.cache
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\camping\camping\obj\Debug\netcoreapp3.1\camping.AssemblyInfo.cs
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\camping\camping\obj\Debug\netcoreapp3.1\camping.dll
+C:\Users\Pieter\Documents\GitHub\itvitae\Green\camping\camping\obj\Debug\netcoreapp3.1\camping.pdb
